@@ -1,5 +1,5 @@
 import 'package:dartz/dartz.dart';
 
-abstract class YourFeatureNameRepository {
+abstract class FeatureNameRepository {
   Future<Either<Exception, Unit>> callApi();
 }

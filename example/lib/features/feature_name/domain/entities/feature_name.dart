@@ -1,7 +1,7 @@
-class YourFeatureName {
+class FeatureName {
   final String? data;
 
-  const YourFeatureName({
+  const FeatureName({
     required this.data,
   });
 }
